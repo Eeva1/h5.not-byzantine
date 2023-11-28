@@ -50,7 +50,7 @@ chain, using the hash of the accepted block as the previous hash.
 - If the total value of a transaction is less than what was put into it, the extra amount becomes a transaction fee, added to the overall incentive of the block that includes the transaction.
 - Once a set number of coins have been circulated, the incentive can shift entirely to transaction fees, making the system completely free from inflation.
 
-## a Created a Wallet
+## a) I Created a Wallet
 
 ![image](https://github.com/Eeva1/h5.not-byzantine/assets/149093822/d0c7bbc3-0ef3-480f-960b-c67fb203a995)
 
@@ -66,3 +66,25 @@ I don't understand why my address is not valid:
 
 ![image](https://github.com/Eeva1/h5.not-byzantine/assets/149093822/7b9942f3-5065-49d3-886b-d4f5a5065617)
 
+The second time I was able to send me some coins..
+
+![image](https://github.com/Eeva1/h5.not-byzantine/assets/149093822/5982966e-f074-4e6c-b31c-543dbb00fe0a)
+
+![image](https://github.com/Eeva1/h5.not-byzantine/assets/149093822/9dab79ae-6d2e-4107-ba04-4bf356ac2850)
+
+## But some how I could not send them back... apparently I have freezd out some addresses..
+
+![image](https://github.com/Eeva1/h5.not-byzantine/assets/149093822/deb25d0f-4a3f-4919-acb4-5ca719850da3)
+
+
+
+
+
+
+Sources:
+
+Youtube 2019. How to Setup a Electrum Bitcoin Wallet on Testnet | Free Bitcoin Faucet | PIAI. URL:https://www.bing.com/videos/riverview/relatedvideo?q=how+to+receive+money+on+bitcoin+testnet+faucet&mid=51CA81CF74C00245ECD551CA81CF74C00245ECD5&FORM=VIRE. Accessed: 28.11.2023
+
+Satoshi Nakamoto. Bitcoin: A Peer-to-Peer Electronic Cash System. URL:Protoni77https://bitcoin.org/bitcoin.pdf. Accessed: 28.11.2023
+
+Tero Karvinen 2023. Trust to Blockchain. URL: https://terokarvinen.com/2023/trust-to-blockchain/. Accessed: 28.11.2023
