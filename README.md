@@ -76,6 +76,7 @@ The second time I was able to send me some coins..
 
 ![image](https://github.com/Eeva1/h5.not-byzantine/assets/149093822/deb25d0f-4a3f-4919-acb4-5ca719850da3)
 
+![image](https://github.com/Eeva1/h5.not-byzantine/assets/149093822/0aa4be4d-c402-41fc-911d-a64200ccd616)
 
 
 
