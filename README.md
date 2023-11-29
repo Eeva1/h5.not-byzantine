@@ -122,6 +122,8 @@ d) Explorer. Use a block explorer to analyze a block on the real Bitcoin blockch
 
 Sources:
 
+Partz, H. 2020. How do you use a block explorer? URL: https://cointelegraph.com/news/how-do-you-use-a-block-explorer. Accessed: 29.11.2023
+
 Satoshi Nakamoto. Bitcoin: A Peer-to-Peer Electronic Cash System. URL:Protoni77https://bitcoin.org/bitcoin.pdf. Accessed: 28.11.2023
 
 Tero Karvinen 2023. Trust to Blockchain. URL: https://terokarvinen.com/2023/trust-to-blockchain/. Accessed: 28.11.2023
