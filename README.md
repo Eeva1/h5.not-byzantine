@@ -54,7 +54,7 @@ chain, using the hash of the accepted block as the previous hash.
 
 ![image](https://github.com/Eeva1/h5.not-byzantine/assets/149093822/d0c7bbc3-0ef3-480f-960b-c67fb203a995)
 
-I copied my Bitcoin receiving address; 
+- I copied my Bitcoin receiving address; 
 
 ![image](https://github.com/Eeva1/h5.not-byzantine/assets/149093822/07743929-d1bc-4a99-831a-a01e8cfc6337)
 
@@ -62,11 +62,11 @@ Googled the bitcoin tesnet faucet page, and tryed to send bitcoins.. but my addr
 
 ![image](https://github.com/Eeva1/h5.not-byzantine/assets/149093822/a3a1aad9-2280-4107-a13e-b256b00e3ab1)
 
-I don't understand why my address is not valid:
+- I don't understand why my address is not valid:
 
 ![image](https://github.com/Eeva1/h5.not-byzantine/assets/149093822/7b9942f3-5065-49d3-886b-d4f5a5065617)
 
-The second time I was able to send me some coins..
+- The second time I was able to send me some coins..
 
 ![image](https://github.com/Eeva1/h5.not-byzantine/assets/149093822/5982966e-f074-4e6c-b31c-543dbb00fe0a)
 
@@ -78,14 +78,54 @@ The second time I was able to send me some coins..
 
 ![image](https://github.com/Eeva1/h5.not-byzantine/assets/149093822/0aa4be4d-c402-41fc-911d-a64200ccd616)
 
+## b) This morning I didn't care about the warnings of the unusual big fee, but just sent the Bitcoins back
+
+![image](https://github.com/Eeva1/h5.not-byzantine/assets/149093822/6b203d93-273f-452b-9f8a-99aaded513d3)
+
+![image](https://github.com/Eeva1/h5.not-byzantine/assets/149093822/a9179c0b-cc2d-4b65-9459-9c8f0ffdedcd)
+
+- It seems that the transaction is pending
+
+![image](https://github.com/Eeva1/h5.not-byzantine/assets/149093822/99811f0c-9079-41ef-921f-a7602c1d1018)
 
 
+d) Explorer. Use a block explorer to analyze a block on the real Bitcoin blockchain. Explain what each value and field means. You only need to analyze the block information and one sample transaction, as a block can contain many transactions.
 
+- I Googled "block explorer" and chose some Bitcoin explorer.one: https://blockexplorer.one/bitcoin-cash/mainnet/tx/000a04c00fd5681ab98c03da6b42dc6d65114b08a350eca77ffc1c1f7e61cabb
+
+- I chose the latest block transaction in blocexplorer.one
+
+![image](https://github.com/Eeva1/h5.not-byzantine/assets/149093822/bcb6889e-b43d-4424-9c4d-59904a8d5d75)
+
+- There is a "Block reward" so does that mean, that somebody was mining and solved the mathematical problem and got rewarded for 1410,19 USD worth of bitcoins: 6.29762264 BCH
+
+![image](https://github.com/Eeva1/h5.not-byzantine/assets/149093822/37d45ad9-0ebb-4536-8ac2-e6ec00b75a9e)
+
+- Then I downloaded a transaction receipt, but there was nothing interesting.
+
+ ![image](https://github.com/Eeva1/h5.not-byzantine/assets/149093822/3a5d646f-19e6-48a7-baf8-81dc25adda34)
+ 
+- Here are all the details of the blockchain:
+
+![image](https://github.com/Eeva1/h5.not-byzantine/assets/149093822/cc1479bf-d037-4e39-b970-fe491042a6d0)
+
+- There is only one input and output
+- Size in bytes is 173
+- 821550 included in block
+- there is 10 confirmations
+- There is not any inputs since it is a reward
+- total output: 6.29762264 BCH
+- There is not any fees, because it is reward
+- Value when transacted	1,410.19 USD
+
+- This is the transaction URL: https://blockexplorer.one/bitcoin-cash/mainnet/tx/4af676a8679ad8eb48ba6701ee7d89f88f934c744c37b2febcf267742b6aa138
 
 Sources:
-
-Youtube 2019. How to Setup a Electrum Bitcoin Wallet on Testnet | Free Bitcoin Faucet | PIAI. URL:https://www.bing.com/videos/riverview/relatedvideo?q=how+to+receive+money+on+bitcoin+testnet+faucet&mid=51CA81CF74C00245ECD551CA81CF74C00245ECD5&FORM=VIRE. Accessed: 28.11.2023
 
 Satoshi Nakamoto. Bitcoin: A Peer-to-Peer Electronic Cash System. URL:Protoni77https://bitcoin.org/bitcoin.pdf. Accessed: 28.11.2023
 
 Tero Karvinen 2023. Trust to Blockchain. URL: https://terokarvinen.com/2023/trust-to-blockchain/. Accessed: 28.11.2023
+
+Youtube 2019. How to Setup a Electrum Bitcoin Wallet on Testnet | Free Bitcoin Faucet | PIAI. URL:https://www.bing.com/videos/riverview/relatedvideo?q=how+to+receive+money+on+bitcoin+testnet+faucet&mid=51CA81CF74C00245ECD551CA81CF74C00245ECD5&FORM=VIRE. Accessed: 28.11.2023
+
+BlockExplorer.one 2023. URL: https://blockexplorer.one/bitcoin-cash/mainnet/tx/4af676a8679ad8eb48ba6701ee7d89f88f934c744c37b2febcf267742b6aa138. Accessed: 29.11.2023
